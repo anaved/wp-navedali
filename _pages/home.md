@@ -8,4 +8,4 @@ layout: page
 permalink: http://www.navedali.com/
 published: true
 ---
-Welcome to your site! This is your homepage, which is what most visitors will see when they come to your site for the first time.
+Hello! Welcome to my site.
