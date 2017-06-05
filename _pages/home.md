@@ -8,4 +8,6 @@ layout: page
 permalink: http://www.navedali.com/
 published: true
 ---
-Hello! Welcome to my site. Here I discuss technology, finance, , and god forbid politics if it comes to that.
+Hello! Welcome to my journal.&nbsp;An amalgamation of random thoughts, with some organised content sprinkled sparsely.
+
+Here I try to discuss topics related technology, finance, philosophy and anything else I feel passionate about.
