@@ -8,4 +8,6 @@ layout: page
 permalink: http://www.navedali.com/about/
 published: true
 ---
-You might be an artist who would like to introduce yourself and your work here or maybe you’re a business with a mission to describe.
+Experience in design, development and deployment of multiple application routines. Knowledge of various software designs paradigms, development frameworks, deployment methodologies, database modelling and process migration. Special focus on business driven design, search optimization, user interface, data access and data storage implementation.
+
+A hacker with a penchant for making technological processes more readily and comprehensively accessible.
