@@ -8,4 +8,4 @@ layout: page
 permalink: http://www.navedali.com/
 published: true
 ---
-Hello! Welcome to my site.
+Hello! Welcome to my site. Here I discuss technology, finance, , and god forbid politics if it comes to that.
