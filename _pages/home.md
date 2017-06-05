@@ -10,4 +10,4 @@ published: true
 ---
 Hello! Welcome to my journal.&nbsp;An amalgamation of random thoughts, with some organised content sprinkled sparsely.
 
-Here I try to discuss topics related technology, finance, philosophy and anything else I am upto.
+Here I try to discuss topics related technology, finance, philosophy and anything else I am up to nowadays.
