@@ -1,6 +1,6 @@
 ---
 ID: 81
-post_title: Clean Price of a Bond
+post_title: Clean Price Of A Bond
 author: admin
 post_date: 2017-05-31 18:13:48
 post_excerpt: ""
