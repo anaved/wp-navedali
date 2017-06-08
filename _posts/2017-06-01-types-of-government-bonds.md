@@ -9,7 +9,7 @@ permalink: >
   http://www.navedali.com/types-of-government-bonds/
 published: true
 ---
-<p class="speakable"><strong>Treasury bills: </strong>"T-bills" have the shortest maturities -- 13 weeks, 26 weeks, and one year. You buy them at a discount to their $10,000 face value and receive the full $10,000 at maturity. The difference reflects the interest you earn.</p>
+<p class="speakable"><strong><a class="ngg-fancybox" title="This is the desciption for river flows" href="http://www.navedali.com/wp-content/gallery/first-gallery/DSC04314-EFFECTS-e1496599136753.jpg" rel="" data-image-id="1" data-src="http://www.navedali.com/wp-content/gallery/first-gallery/DSC04314-EFFECTS-e1496599136753.jpg" data-thumbnail="http://www.navedali.com/wp-content/gallery/first-gallery/thumbs/thumbs_DSC04314-EFFECTS-e1496599136753.jpg" data-title="River Flows" data-description="This is the desciption for river flows"><img class="ngg-singlepic ngg-none" src="http://www.navedali.com/wp-content/gallery/first-gallery/thumbs/thumbs_DSC04314-EFFECTS-e1496599136753.jpg" alt="River Flows"></a>Treasury bills: </strong>"T-bills" have the shortest maturities -- 13 weeks, 26 weeks, and one year. You buy them at a discount to their $10,000 face value and receive the full $10,000 at maturity. The difference reflects the interest you earn.</p>
 <strong>Treasury notes: </strong>These mature in two to 10 years. Interest is paid semiannually at a fixed rate. Minimum investment: $1,000 or $5,000, depending on maturity.
 
 <strong>Treasury bonds: </strong>These have the longest maturities at 10 years. As with Treasury notes, they pay interest semiannually, and are sold in denominations of $1,000.
