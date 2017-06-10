@@ -5,8 +5,7 @@ author: admin
 post_date: 2017-06-05 22:52:35
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.navedali.com/about/disclaimer/
+permalink: http://www.navedali.com/disclaimer/
 published: true
 ---
 This is a blog. That fact means nothing.
