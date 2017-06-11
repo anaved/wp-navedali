@@ -1,11 +1,12 @@
 ---
 ID: 67
 post_title: Bond Markets
-author: admin
+author: Naved
 post_date: 2017-05-30 16:38:27
 post_excerpt: ""
 layout: post
-permalink: http://www.navedali.com/bond-markets/
+permalink: >
+  http://www.navedali.com/finance/fixed-income/bonds/bond-markets
 published: true
 ---
 <ul>
