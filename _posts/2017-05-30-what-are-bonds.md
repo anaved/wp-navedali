@@ -1,11 +1,12 @@
 ---
 ID: 48
 post_title: What are Bonds
-author: admin
+author: Naved
 post_date: 2017-05-30 16:05:38
 post_excerpt: ""
 layout: post
-permalink: http://www.navedali.com/what-are-bonds/
+permalink: >
+  http://www.navedali.com/finance/fixed-income/bonds/what-are-bonds
 published: true
 ---
 Bonds are financial instruments used to raise capital for Gornments and Corporates
