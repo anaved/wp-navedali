@@ -12,5 +12,4 @@ published: true
 <ul>
  	<li>Par</li>
  	<li>Coupon</li>
- 	<li></li>
 </ul>
