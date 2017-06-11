@@ -5,7 +5,8 @@ author: Naved
 post_date: 2017-06-05 23:08:15
 post_excerpt: ""
 layout: post
-permalink: http://www.navedali.com/mangalyaan/
+permalink: >
+  http://www.navedali.com/journal/opinion/mangalyaan
 published: true
 ---
 Just a day after Diwali, the festival of light, happiness and firecrackers, grownups launched the biggest of them all. Prominently marking the prowess of India intellect and endeavor yet again.
