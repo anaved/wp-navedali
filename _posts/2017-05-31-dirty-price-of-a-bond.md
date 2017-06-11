@@ -6,7 +6,7 @@ post_date: 2017-05-31 18:14:38
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.navedali.com/uncategorized/dirty-price-of-a-bond
+  http://www.navedali.com/finance/fixed-income/bonds/dirty-price-of-a-bond
 published: true
 ---
 Dirty Price:
