@@ -1,12 +1,12 @@
 ---
 ID: 89
 post_title: Types of Government Bonds
-author: admin
+author: Naved
 post_date: 2017-06-01 17:50:41
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.navedali.com/types-of-government-bonds/
+  http://www.navedali.com/finance/fixed-income/bonds/types-of-government-bonds
 published: true
 ---
 <p class="speakable"><strong>Treasury bills: </strong>"T-bills" have the shortest maturities -- 13 weeks, 26 weeks, and one year. You buy them at a discount to their $10,000 face value and receive the full $10,000 at maturity. The difference reflects the interest you earn.</p>
