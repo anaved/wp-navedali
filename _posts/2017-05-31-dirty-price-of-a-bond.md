@@ -1,12 +1,12 @@
 ---
 ID: 83
 post_title: Dirty Price of a Bond
-author: admin
+author: Naved
 post_date: 2017-05-31 18:14:38
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.navedali.com/dirty-price-of-a-bond/
+  http://www.navedali.com/uncategorized/dirty-price-of-a-bond
 published: true
 ---
 Dirty Price:
