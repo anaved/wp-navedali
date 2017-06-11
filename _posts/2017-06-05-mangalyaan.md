@@ -1,7 +1,7 @@
 ---
 ID: 165
 post_title: Mangalyaan
-author: admin
+author: Naved
 post_date: 2017-06-05 23:08:15
 post_excerpt: ""
 layout: post
