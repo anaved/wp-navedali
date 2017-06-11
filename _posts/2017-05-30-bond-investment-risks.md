@@ -12,4 +12,3 @@ published: true
 <ul>
  	<li>Credit Risk</li>
 </ul>
-&nbsp;
