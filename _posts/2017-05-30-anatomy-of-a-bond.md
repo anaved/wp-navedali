@@ -1,12 +1,12 @@
 ---
 ID: 63
 post_title: Anatomy of a Bond
-author: admin
+author: Naved
 post_date: 2017-05-30 16:37:11
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.navedali.com/anatomy-of-a-bond/
+  http://www.navedali.com/finance/fixed-income/bonds/anatomy-of-a-bond
 published: true
 ---
 <ul>
