@@ -1,12 +1,12 @@
 ---
 ID: 81
 post_title: Clean Price Of A Bond
-author: admin
+author: Naved
 post_date: 2017-05-31 18:13:48
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.navedali.com/clean-price-of-a-bond/
+  http://www.navedali.com/finance/fixed-income/bonds/clean-price-of-a-bond
 published: true
 ---
 Clean price:
