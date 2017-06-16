@@ -6,7 +6,7 @@ post_date: 2017-06-16 18:20:15
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.navedali.com/uncategorized/bond-investors
+  http://www.navedali.com/finance/fixed-income/bonds/bond-investors
 published: true
 ---
 &nbsp;
