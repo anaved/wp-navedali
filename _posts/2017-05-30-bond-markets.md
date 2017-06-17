@@ -11,10 +11,6 @@ published: true
 ---
 Even though bond market is a common jargon, in reality there is no singular place or exchange where bonds are traded. In-fact, the bond market is a huge OTC ( Over the Counter ) market,  consisting independent dealers, organised by types of securities. Most bonds are sold dealer to dealer, which is also called a secondary market.
 <ul>
- 	<li>Government</li>
- 	<li>Corporate</li>
- 	<li>================</li>
- 	<li>Primary</li>
- 	<li>Secondary</li>
- 	<li></li>
+ 	<li>Primary Market</li>
+ 	<li>Secondary Market</li>
 </ul>
