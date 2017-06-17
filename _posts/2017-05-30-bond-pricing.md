@@ -9,4 +9,4 @@ permalink: >
   http://www.navedali.com/finance/fixed-income/bonds/bond-pricing
 published: true
 ---
-Bonds can be bought from different sources and their prices can also vary accordingly.
+Bonds can be bought from different sources and their prices can also vary accordingly. There could be multiple factors behind pricing of a bond.
