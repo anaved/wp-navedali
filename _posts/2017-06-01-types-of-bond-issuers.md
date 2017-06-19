@@ -14,13 +14,12 @@ dsq_needs_sync:
   - "1"
 ---
 <h3>Central Governments</h3>
-Govt, sovereign entities : country , Sovereign Debt (Sov Debt) means any debt govt has guaranteed. This not only include the debts/obligations/securities but also obligations by any of its department/ministeries
-Governments borrow more than any other sector. Nearly all governments require a constant flow of borrowed funds in order to pursue their policies. Even in developed economies, successive budget deficits build up a large stock of outstanding debt that must be refinanced or serviced. Although some countries reduce borrowing during periods of budget surpluses, they never stop borrowing completely.
-In countries such as the US where there is a deep domestic bond market, government bonds represent a riskless benchmark. Where there is no domestic market, governments must rely on international investors to provide them with finance.
+Sovereign Debt (Sov Debt) means any debt government has guaranteed. This not only include the debts/obligations/securities but also obligations by any of its department/ministries. Nearly all governments require a constant flow of borrowed funds in order to pursue their policies. Even in developed economies, successive budget deficits build up a large stock of outstanding debt that must be refinanced or serviced. Although some countries reduce borrowing during periods of budget surpluses, they never stop borrowing completely.
+In countries such as the US where there is a deep domestic bond market, government bonds represent a risk-less benchmark. Where there is no domestic market, governments must rely on international investors to provide them with finance.
 
 [table id=1 /]
 <h3>Local Govt entities Municipals , Government Sponsored Enterprise GSE</h3>
-(Muni) market in US is of considerable size. In the US again, there is a large quasi-government â€œagencyâ€ bond market sector for the securities of federal government agencies and government-sponsored enterprises (GSEs). While some of these agencies are explicitly government guaranteed, others are ostensibly private corporations. Due to their importance, there is a general assumption by the market that their borrowings have implicit government support.
+(Muni) market in US is of considerable size. In the US again, there is a large quasi-government agency bond market sector for the securities of federal government agencies and government-sponsored enterprises (GSEs). While some of these agencies are explicitly government guaranteed, others are ostensibly private corporations. Due to their importance, there is a general assumption by the market that their borrowings have implicit government support.
 
 The implicit US government guarantee for agency securities was put to the test at the height of the financial crisis in September 2008. The government was forced to bail out and put into conservatorship two GSEs â€“ the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac) in. As conservator, the US government â€“ or more specifically the Federal Housing Finance Agency (FHFA), which regulates the countryâ€™s secondary mortgage markets â€“ assumed ultimate control over Fannie Mae and Freddie Mac.
 <h3>Corporation ( Bank, nonbanks)</h3>
