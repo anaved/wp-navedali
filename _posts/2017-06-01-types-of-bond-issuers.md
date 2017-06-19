@@ -10,8 +10,6 @@ permalink: >
 published: true
 dsq_thread_id:
   - "5919761223"
-dsq_needs_sync:
-  - "1"
 ---
 <h3>Central Governments</h3>
 Govt, sovereign entities : country , Sovereign Debt (Sov Debt) means any debt govt has guaranteed. This not only include the debts/obligations/securities but also obligations by any of its department/ministeries
