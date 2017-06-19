@@ -10,12 +10,9 @@ permalink: >
 published: true
 dsq_thread_id:
   - "5919761223"
-dsq_needs_sync:
-  - "1"
 ---
 <h3>Central Governments</h3>
-Sovereign Debt (Sov Debt) means any debt government has guaranteed. This not only include the debts/obligations/securities but also obligations by any of its department/ministries. Nearly all governments require a constant flow of borrowed funds in order to pursue their policies. Even in developed economies, successive budget deficits build up a large stock of outstanding debt that must be refinanced or serviced. Although some countries reduce borrowing during periods of budget surpluses, they never stop borrowing completely.
-In countries such as the US where there is a deep domestic bond market, government bonds represent a risk-less benchmark. Where there is no domestic market, governments must rely on international investors to provide them with finance.
+Sovereign Debt (Sov Debt) means any debt government has guaranteed. This not only include the debts/obligations/securities but also obligations by any of its department/ministries. Nearly all governments require a constant flow of borrowed funds in order to pursue their policies. Even in developed economies, successive budget deficits build up a large stock of outstanding debt that must be refinanced or serviced. Although some countries reduce borrowing during periods of budget surpluses, they never stop borrowing completely. In countries such as the US where there is a deep domestic bond market, government bonds represent a risk-less benchmark.
 
 [table id=1 /]
 <h3>Local Govt entities Municipals , Government Sponsored Enterprise GSE</h3>
