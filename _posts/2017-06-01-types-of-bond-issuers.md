@@ -23,7 +23,7 @@ The implicit US government guarantee for agency securities was put to the test a
 includes corporate borrowers (such as retail, IT, and industrial firms) and financial borrowers (notably banks).
 In fact, financial sector issues account for the majority of volume in the corporate sector.
 Wholesale debt issuance can be a key part of a bankâ€™s business model.
-A bankâ€™s funding structure may be based on customer deposits, but it will generally look to supplement this with a portion of long-term funding through bond market issues.
+A bank's funding structure may be based on customer deposits, but it will generally look to supplement this with a portion of long-term funding through bond market issues.
 <h3>Supranational entities</h3>
 international organisations, often multinational or quasi-government organisations, usually owned by consortium of sovereigns.
 Bond issuance is often the primary source of funding for these entities, so they represent an important component of many international and domestic bond markets
