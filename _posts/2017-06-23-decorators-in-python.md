@@ -14,3 +14,5 @@ Decorators
 Usage
 
 Decorators with arguments
+
+Memoize
