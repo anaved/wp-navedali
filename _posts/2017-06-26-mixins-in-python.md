@@ -6,7 +6,7 @@ post_date: 2017-06-26 13:16:59
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.navedali.com/uncategorized/mixins-in-python
+  http://www.navedali.com/technology/python/mixins-in-python
 published: true
 ---
 What are mixins
