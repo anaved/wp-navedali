@@ -1,6 +1,6 @@
 ---
 ID: 435
-post_title: @property In Python
+post_title: Properties In Python
 author: Naved
 post_excerpt: ""
 layout: post
