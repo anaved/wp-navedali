@@ -22,4 +22,4 @@ Put simply properties allow functions to be presented as variables.
 </ul>
 Properties also allow creation of a final variable.
 
-https://github.com/anaved/bond-concepts/blob/master/src/calc/bond.py
+https://gist.github.com/anaved/672f5b7304f5b6f5cdd0
