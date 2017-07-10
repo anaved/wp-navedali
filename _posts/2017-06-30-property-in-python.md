@@ -21,3 +21,5 @@ Put simply properties allow functions to be presented as variables.
  	<li>Debugging: Since mutator methods can encapsulate any code, it becomes a great place for interception when debugging (or logging) your code. For example, you could log or inspect each time that a property's value is changed.</li>
 </ul>
 Properties also allow creation of a final variable.
+
+https://gist.github.com/anaved/5849951
