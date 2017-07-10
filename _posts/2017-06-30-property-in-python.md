@@ -23,3 +23,5 @@ Put simply properties allow functions to be presented as variables.
 Properties also allow creation of a final variable.
 
 https://gist.github.com/anaved/672f5b7304f5b6f5cdd0
+
+<script src="https://gist.github.com/anaved/9251ee318f9c43710993ddcf291daf2e.js"></script>
