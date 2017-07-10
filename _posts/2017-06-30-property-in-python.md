@@ -22,4 +22,4 @@ Put simply properties allow functions to be presented as variables.
 </ul>
 Properties also allow creation of a final variable.
 
-https://gist.github.com/anaved/5849951
+https://gist.github.com/miya0001/973153#file-select_media-js
