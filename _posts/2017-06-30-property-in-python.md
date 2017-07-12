@@ -38,12 +38,12 @@ By adding a <strong>@property</strong> decorator, a method in python can be acce
 
     [/datacamp_solution]
     [datacamp_sct]
-        myProp = MyProperty(&quot;John&quot;)
-        print myProp.xname
-        myProp.xname = &quot;Doe&quot;
-        print myProp.xname
-        del myProp.xname
-        print myProp.xname
+    myProp = MyProperty(&quot;John&quot;)
+    print myProp.xname
+    myProp.xname = &quot;Doe&quot;
+    print myProp.xname
+    del myProp.xname
+    print myProp.xname
     [/datacamp_sct]
     [datacamp_hint]
 
