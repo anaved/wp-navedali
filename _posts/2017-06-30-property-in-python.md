@@ -45,7 +45,7 @@ By adding a <strong>@property</strong> decorator, a method in python can be acce
     print ("Value after Setting", myProp.xname )
     del myProp.xname
     print ("Below shall raise an exception since property is deleted" )
-    print myProp.xname
+    print ( myProp.xname )
     [/datacamp_sct]
     [datacamp_hint]
 
