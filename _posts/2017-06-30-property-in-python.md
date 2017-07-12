@@ -34,19 +34,24 @@ By adding a <strong>@property</strong> decorator, a method in python can be acce
             @xname.deleter
             def xname(self):
                 del self.__name
+    #Instantiate class with initial value
+    myProp = MyProperty("John")
+    #Print initial value
+    print myProp.xname
+    #Update value
+    myProp.xname = "Doe"
+    #Print updated value
+    print myProp.xname
+    #Delete property
+    del myProp.xname
+    #This will raise exception
+    print myProp.xname
     [/datacamp_sample_code]
     [datacamp_solution]
 
     [/datacamp_solution]
     [datacamp_sct]
-    from script import MyProperty 
-    myProp = MyProperty("John")
-    print( "Initial Value", myProp.xname )
-    myProp.xname = "Doe"
-    print("Value after Setting", myProp.xname )
-    del myProp.xname
-    print("Below shall raise an exception since property is deleted" )
-    print( myProp.xname )
+
     [/datacamp_sct]
     [datacamp_hint]
 
