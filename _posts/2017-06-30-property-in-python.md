@@ -18,9 +18,6 @@ By adding a <strong>@property</strong> decorator, a method in python can be acce
 
     [/datacamp_pre_exercise_code]
     [datacamp_sample_code]
-
-    [/datacamp_sample_code]
-    [datacamp_solution]
         class MyProperty(object):
             def __init__(self, name):
                 self.__name = name
@@ -36,9 +33,11 @@ By adding a <strong>@property</strong> decorator, a method in python can be acce
             @xname.deleter
             def xname(self):
                 del self.__name
+    [/datacamp_sample_code]
+    [datacamp_solution]
+
     [/datacamp_solution]
     [datacamp_sct]
-
         myProp = MyProperty(&quot;John&quot;)
         print myProp.xname
         myProp.xname = &quot;Doe&quot;
