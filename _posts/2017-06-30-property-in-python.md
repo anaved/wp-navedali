@@ -38,6 +38,7 @@ By adding a <strong>@property</strong> decorator, a method in python can be acce
                 del self.__name
     [/datacamp_solution]
     [datacamp_sct]
+
         myProp = MyProperty(&quot;John&quot;)
         print myProp.xname
         myProp.xname = &quot;Doe&quot;
