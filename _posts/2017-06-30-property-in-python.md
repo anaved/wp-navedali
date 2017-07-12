@@ -13,7 +13,7 @@ Properties in python are used to provide access methods to change an attribute o
 
 By adding a <strong>@property</strong> decorator, a method in python can be accessed like a variable. Any processing can be performed at the retrieval or at the setting of value. Sample of a class with a property.
 
-[datacamp_exercise lang=&quot;python&quot;]
+[datacamp_exercise lang="python"]
     [datacamp_pre_exercise_code]
 
     [/datacamp_pre_exercise_code]
