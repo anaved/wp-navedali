@@ -13,71 +13,28 @@ Properties in python are used to provide access methods to change an attribute o
 
 By adding a <strong>@property</strong> decorator, a method in python can be accessed like a variable. Any processing can be performed at the retrieval or at the setting of value. Sample of a class with a property.
 
-[datacamp_exercise lang="python"]
-    [datacamp_pre_exercise_code]
-
-    [/datacamp_pre_exercise_code]
-    [datacamp_sample_code]
-        #Sample class with getter/setter for property xname 
-        class MyProperty(object):
-            def __init__(self, name):
-                self.__name = name
-
-            @property
-            def xname(self):
-                return self.__name
-
-            @xname.setter
-            def xname(self, val):
-                self.__name = val
-
-            @xname.deleter
-            def xname(self):
-                del self.__name
-    #Instantiate class with initial value
-    myProp = MyProperty("John")
-    #Print initial value
-    print myProp.xname
-    #Update value
-    myProp.xname = "Doe"
-    #Print updated value
-    print myProp.xname
-    #Delete property
-    del myProp.xname
-    #This will raise exception
-    print myProp.xname
-    [/datacamp_sample_code]
-    [datacamp_solution]
-
-    [/datacamp_solution]
-    [datacamp_sct]
-
-    [/datacamp_sct]
-    [datacamp_hint]
-
-    [/datacamp_hint]
-[/datacamp_exercise]
+https://gist.github.com/anaved/925df723a4c290392f6611bc707a1cb8
 
 &nbsp;
 
 Following are few flavors of properties.
-
-&nbsp;
 <ul>
  	<li><strong>Validation: </strong>Before setting a property value, we can perform any validation for data type, data range etc and throw an exception in case of failures.</li>
 </ul>
-&nbsp;
+https://gist.github.com/anaved/bdf3c3703f1050c10792dde4f8003ed1
 <ul>
- 	<li>Before setting the internal property, you can validate that the provided value meets some criteria, and have it throw an error if it doesn't.</li>
+ 	<li><strong>Abstract Property: </strong> A property can also be declared abstract by using @abstractproperty decorator. This enforces the subclass to provide an implementation.</li>
 </ul>
+https://gist.github.com/anaved/5cd3ff493de65e5cd8dec74c00a4302e
+<ul>
+ 	<li><strong>Constant (Final ) Property</strong>: A property can be used to create constants in python. This can be achieved by returning a constant value from a getter, and not declaring a setter method.</li>
+</ul>
+https://gist.github.com/anaved/4728099bffd5ee642e2e95f4c4124ded
+<ul>
+ 	<li><strong>Declaring A Property Without Decorator: </strong>A property can also be created by declaring getter/setter methods and then passing them as argument to <strong>property(...).</strong></li>
+</ul>
+https://gist.github.com/3b43e62f55968fa537b6c4da2668ff3c
+
 &nbsp;
 
 &nbsp;
-<ul>
- 	<li>Lazy loading: Resources can by <a href="https://en.wikipedia.org/wiki/Lazy_loading" target="_blank" rel="nofollow noopener">lazily loaded</a> to defer work until it is actually needed, saving time and resources</li>
- 	<li>Abstraction: Getters and setters allow you to abstract out the internal representation of data. Like our example above, for example, the first and last names are stored separately, but the getters and setters contain the logic that uses the first and last names to create the full name.</li>
- 	<li>Debugging: Since mutator methods can encapsulate any code, it becomes a great place for interception when debugging (or logging) your code. For example, you could log or inspect each time that a property's value is changed.</li>
-</ul>
-Properties also allow creation of a final variable.
-
-https://gist.github.com/anaved/9251ee318f9c43710993ddcf291daf2e.js
