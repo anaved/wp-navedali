@@ -39,6 +39,7 @@ By adding a <strong>@property</strong> decorator, a method in python can be acce
 
     [/datacamp_solution]
     [datacamp_sct]
+    from script import MyProperty 
     myProp = MyProperty("John")
     print( "Initial Value", myProp.xname )
     myProp.xname = "Doe"
