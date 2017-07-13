@@ -33,7 +33,7 @@ We can also use helper <a href="https://docs.python.org/2/library/functools.html
 
 https://gist.github.com/anaved/90b5d05985da5b12eda9072abfccac70#file-simple_decorator3-py
 
-Based upon above examples lets try to write a memoized function. A simple decorator memoize could be a function which stores the map of function input and output values. The decorator only calls the function if no records are found in the map, otherwise just return the results from the map. This kind of caching is useful when optimizing a heavy function.
+Based upon above examples lets try to write a memoized function. A simple implementation could be a @memoize decorator which stores the map of function input and output values. The decorator only calls the function if no records are found in the map, otherwise just return the results from the map. This kind of caching is useful when optimizing a heavy function.
 
 https://gist.github.com/anaved/5262a6c761f675805955823ad6ff6b88
 
