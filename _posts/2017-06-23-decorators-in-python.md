@@ -21,11 +21,7 @@ Few common usages of decorators are
 </ul>
 A simple decorator memoize could be a function which stores the map of function input and output values. The decorator only calls the function if no records are found in the map, otherwise just return the results from the map. This kind of caching is useful when optimizing a heavy function.
 
-[code language="python"]
-@memoize
-def add_values( a, b ):
- return a+b
-[/code]
+https://gist.github.com/anaved/5262a6c761f675805955823ad6ff6b88
 
 Things to keep in mind while writing decorators:
 <ul>
@@ -35,4 +31,4 @@ Things to keep in mind while writing decorators:
 </ul>
 Decorators with arguments
 
-Memoize
+Implement Memoize decorator.
