@@ -22,7 +22,7 @@ Most common day-count conventions are as follow.
 <h3> 30/360  Method</h3>
 This method assumes every year to be of 360 days with everything month having 30 days in them. Rough formula to calculate year fraction between two dates <span style="color: #222222; font-family: monospace;"><span style="background-color: #e9ebec;">D1/M1/Y1 </span></span>and <code>D2/M2/Y2</code> could be.
 
-$latex
+$latex \normal
 
 Fraction = \frac{ 360(Y_2 - Y_1) + 30(M_2 - M_1) + (D_2 - D_1)}{360}
 
