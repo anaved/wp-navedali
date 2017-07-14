@@ -50,3 +50,5 @@ Things to keep in mind while writing decorators:
 Decorators with arguments
 
 Implement Memoize decorator.
+
+Decorator as class
