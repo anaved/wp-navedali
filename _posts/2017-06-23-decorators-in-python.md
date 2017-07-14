@@ -29,7 +29,7 @@ In the above example we have used a <em>wrapper </em>function to wrap the <em>de
 
 https://gist.github.com/anaved/90b5d05985da5b12eda9072abfccac70#file-simple_decorator2-py
 
-We can also use helper <a href="https://docs.python.org/2/library/functools.html#functools.wraps">@wraps</a> to give the impression that we are actually calling <em>decoratee2, as below</em>
+We can also use helper <a href="https://docs.python.org/2/library/functools.html#functools.wraps">@wraps</a> to give the impression that we are actually calling <em>decoratee2 by preserving its metadata, as below</em>
 
 https://gist.github.com/anaved/90b5d05985da5b12eda9072abfccac70#file-simple_decorator3-py
 
