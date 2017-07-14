@@ -21,7 +21,7 @@ Few common usages of decorators are
 </ul>
 Following could be an example of a decorator which when used at declaration of a function, calls the same with a static argument, and returns the result
 
-https://gist.github.com/anaved/90b5d05985da5b12eda9072abfccac70
+https://gist.github.com/anaved/90b5d05985da5b12eda9072abfccac70#file-simple_decorator-py
 
 As you can observe, in the current format the decorator isn't of much use since the arguments to the decoratee function is fixed. Lets see if we can improve on that
 
