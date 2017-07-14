@@ -23,23 +23,19 @@ Following could be an example of a decorator which when used at declaration of a
 
 https://gist.github.com/anaved/90b5d05985da5b12eda9072abfccac70#file-simple_decorator-py
 
-As you can observe, in the current format the decorator isn't of much use since the arguments to the decoratee function is fixed. Lets see if we can improve on that
+As you can observe, in the current format the decorator isn't of much use since the arguments to the decoratee function is fixed. Lets try if we can improve on that.
 
-In the above example we have used a <em>wrapper </em>function to wrap the <em>decoratee2. </em>In this case reference to <em>wrapper</em> is returned when <em>decoratee2 </em>is called, passing the argument to it in turn with call <em>wrapper </em>first. Which will then add 1 to passed number and then call <em>decoratee2.</em>
+Lets try to write a memoized function. A simple implementation could be a <code>@memoize</code> decorator which stores the map of function input and output values. The decorator only calls the function if no records are found in the map, otherwise just return the results from the map. This kind of caching is useful when optimizing a heavy function.
 
 https://gist.github.com/anaved/90b5d05985da5b12eda9072abfccac70#file-simple_decorator2-py
 
-We can also use helper <a href="https://docs.python.org/2/library/functools.html#functools.wraps">@wraps</a> to give the impression that we are actually calling <em>decoratee2 by preserving its metadata, as below</em>
+We can also use helper <code><a href="https://docs.python.org/2/library/functools.html#functools.wraps">@wraps</a></code> to give the impression that we are actually calling <em>adder by preserving its metadata </em><code>__name__</code>, <code>__doc__</code>, and <code>__module__</code>
 
 https://gist.github.com/anaved/90b5d05985da5b12eda9072abfccac70#file-simple_decorator3-py
 
-Based upon above examples lets try to write a memoized function. A simple implementation could be a @memoize decorator which stores the map of function input and output values. The decorator only calls the function if no records are found in the map, otherwise just return the results from the map. This kind of caching is useful when optimizing a heavy function.
-
-https://gist.github.com/anaved/5262a6c761f675805955823ad6ff6b88
+Since memoize function here is a callable object, lets try to implement the same using a class
 
 &nbsp;
-
-Memoize with argument
 
 Things to keep in mind while writing decorators:
 <ul>
