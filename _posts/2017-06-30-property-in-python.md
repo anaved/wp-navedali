@@ -15,7 +15,6 @@ By adding a <strong>@property</strong> decorator, a method in python can be acce
 
 https://gist.github.com/anaved/925df723a4c290392f6611bc707a1cb8
 
-&nbsp;
 
 Following are few flavors of properties.
 <ul>
@@ -34,7 +33,3 @@ https://gist.github.com/anaved/4728099bffd5ee642e2e95f4c4124ded
  	<li><strong>Declaring A Property Without Decorator: </strong>A property can also be created by declaring getter/setter methods and then passing them as argument to <strong>property(...).</strong></li>
 </ul>
 https://gist.github.com/3b43e62f55968fa537b6c4da2668ff3c
-
-&nbsp;
-
-&nbsp;
