@@ -38,11 +38,21 @@ Since memoize function here is a callable object, lets try to implement the same
 
 https://gist.github.com/anaved/90b5d05985da5b12eda9072abfccac70#file-simple_decorator4-py
 
-In this example <code>__call__</code> method is used to invoke the underlying function. <code>__call__</code> method is invoked when calling an instance of a class, whereas instance is created by <code>__init__&lt;/code &gt;. We are invoking <code>functools.update_wrapper</code> directly to set the func metadata.</code>
+In this example <code>__call__</code> method is used to invoke the underlying function. <code>__call__</code> method is invoked when calling an instance of a class, whereas instance is created by <code>__init__</code>. We are invoking <code>functools.update_wrapper</code> directly to set the func metadata.
 <h3>Passing arguments to a decorator:</h3>
 Now lets see how we can change the behavior of a decorator based upon arguments passed to it. In this case change the persistence method to a cache file.
 
-&nbsp;
+https://gist.github.com/anaved/90b5d05985da5b12eda9072abfccac70#file-simple_decorator5-py
+
+In case of passing arguments to decorator. Most of the heavy lifting is done by <code>__call__</code>, since <code>__init__</code> is already invoked with arguments at the time of attaching decorator to a function.
+
+Using the decorator with <code>persist=True</code>
+
+https://gist.github.com/anaved/90b5d05985da5b12eda9072abfccac70#file-simple_decorator7-py
+
+With <code>persist=False </code>
+
+https://gist.github.com/anaved/90b5d05985da5b12eda9072abfccac70#file-simple_decorator6-py
 
 Things to keep in mind while writing decorators:
 <ul>
