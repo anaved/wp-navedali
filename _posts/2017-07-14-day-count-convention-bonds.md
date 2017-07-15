@@ -29,10 +29,10 @@ $latex
 $
 </p>
 Sample python class for such calculation
-[sourcecode language="python"]
+<code>
 
 class Thirty360DayCountCalculator( DayCountCalculator ):
-    &quot;&quot;&quot;
+    """
     A month is considered of 30 days and a year is of 360 days.
     ISDA recommended method for day count is
     360(y2-y1)+30(m2-m1-1)+max(0,30-d1)+min(30,d2)
@@ -41,7 +41,7 @@ class Thirty360DayCountCalculator( DayCountCalculator ):
     * Since every month is 30 and reduce d1 from it, and take
     max with 0 in case result is negative ( days to 30 )
     * days in d2, min if more than 30
-    &quot;&quot;&quot;
+    """
     @property
     def numerator(self):
         return 30
@@ -51,12 +51,10 @@ class Thirty360DayCountCalculator( DayCountCalculator ):
         return 360
 
     def day_count(self, start, end):
-        if end &lt;= start:
+        if end <= start:
             return 0
         return 360*(end.year - start.year)\
                + 30*(end.month - start.month -1)\
                + max(0, 30 - start.day)\
                + min(30, end.day)
-
-
-[/sourcecode]
+</code>
