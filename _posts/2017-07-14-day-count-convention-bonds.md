@@ -30,6 +30,7 @@ $
 </p>
 Sample python class for such calculation
 [sourcecode language="python"]
+
 class Thirty360DayCountCalculator( DayCountCalculator ):
     &quot;&quot;&quot;
     A month is considered of 30 days and a year is of 360 days.
@@ -56,4 +57,6 @@ class Thirty360DayCountCalculator( DayCountCalculator ):
                + 30*(end.month - start.month -1)\
                + max(0, 30 - start.day)\
                + min(30, end.day)
+
+
 [/sourcecode]
