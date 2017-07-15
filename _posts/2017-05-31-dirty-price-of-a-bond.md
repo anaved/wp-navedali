@@ -10,8 +10,11 @@ published: true
 post_date: 2017-05-31 18:14:38
 ---
 Dirty Price is the price of the bond, plus part of coupon the seller expects in form of accrued interest for holding the bond for certain days. In most of the European markets, bond prices are quoted in dirty price, and this is what a buyer has to pay to procure a bond.
+
 <p align="center">$latex
-{Dirty Price =Clean Price + Accrued Interest}&amp;s=2</p>
+{Dirty Price = Clean Price + Accrued Interest}&amp;s=2
+$</p>
+
 Since dirty price depends on how long the bond has been held since the last coupon, is it zero on the day of coupon payment and highest just the day before.
 
 Dirty price is calculated on the basis of settlement date of purchase (T+2, T+3 etc).
