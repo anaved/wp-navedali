@@ -1,17 +1,13 @@
 ---
 ID: 65
-post_title: Types of Bonds
+post_title: Types of Bonds And Issuers
 author: Naved
-post_date: 2017-05-30 16:37:58
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.navedali.com/finance/fixed-income/bonds/types-of-bonds
+  http://www.navedali.com/finance/fixed-income/bonds/types-of-bonds-and-issuers
 published: true
-dsq_thread_id:
-  - "5919836045"
-dsq_needs_sync:
-  - "1"
+post_date: 2017-05-30 16:37:58
 ---
 <h3>Government Bonds</h3>
 These are bonds issued by a national government, denominated in the country's own currency, for example Australian Commonwealth Government Bonds and US Treasuries. Government bonds are usually referred to as risk-free bonds with very low default risk and are among the safest investments, because the government can raise taxes or print money to redeem the bond at maturity. Bonds issued by national governments in foreign currencies are normally referred to as sovereign bonds.
@@ -23,8 +19,7 @@ Supranational debt refers to bonds issued by international organisations, often 
 These are bonds issued by companies to raise money for business purposes, e.g. to expand operations or fund new business ventures. Corporate bonds usually pay higher rates than government bonds, because they tend to be riskier. Corporate bonds have a wide range of ratings, reflecting the fact that the financial health of issuers can vary significantly. (Please refer to the rating agency section). High yield bonds are issued by lower quality corporates and therefore have higher yields to compensate for the additional default risk.
 <h3>Hybrids</h3>
 These are securities which have characteristics which are equity-like (e.g. perpetuity) and bond-like (e.g. regular coupon payments). Given the nature of these investments, they typically provide higher yields but also have higher risk associated.
-<h3>
-Emerging Market Bonds</h3>
+<h3>Emerging Market Bonds</h3>
 These refer to bonds issued by governments and companies in developing markets such as Latin America, Russia, the Middle East and Asia excluding Japan. Emerging market bonds usually offer very attractive yields and pose special risks such as political and institutional instability and currency volatility. Again, because of the higher risk involved, their yields are generally higher.
 <h3>Inflation Linked Bonds</h3>
 The interest rate on these bonds are adjusted on a regular basis to reflect changes in the rate of inflation, thereby providing a real or inflation-adjusted return. Inflation linked bonds could experience greater losses when real interest rates are rising faster than normal interest rates. Inflation linked bonds are usually issued by the federal government.
