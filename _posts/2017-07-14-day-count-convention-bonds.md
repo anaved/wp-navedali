@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-07-14 23:31:54
 ---
-<a href="https://photos.app.goo.gl/MA72ZqjCHYw5Gizi1">https://photos.app.goo.gl/MA72ZqjCHYw5Gizi1</a><a href="https://photos.app.goo.gl/MA72ZqjCHYw5Gizi1">This is another medai</a>Day-count convention is used to calculate accrued interest between coupon payments. This convention helps to determine the number of days between payment, thus helping with calculation of how interest is accrued over a period. This convention dictates how the period between payments is calculated, by deciding numbers of days in a month and a year for below.
+Day-count convention is used to calculate accrued interest between coupon payments. This convention helps to determine the number of days between payment, thus helping with calculation of how interest is accrued over a period. This convention dictates how the period between payments is calculated, by deciding numbers of days in a month and a year for below.
 <ul>
  	<li><b>Coupon Value Calculation:</b> For sub annual coupon payments, day-count convention are used to calculate fraction of year on the payment day to determine payout.</li>
  	<li><b> Dirty Price Calculation:</b> To calculate how to what fraction of next coupon the seller is eligible based upon how long hes kept the security with him.</li>
