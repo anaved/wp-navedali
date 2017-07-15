@@ -1,11 +1,11 @@
 ---
 ID: 65
-post_title: Types of Bonds And Issuers
+post_title: Types of Bonds By Issuers
 author: Naved
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.navedali.com/finance/fixed-income/bonds/types-of-bonds-and-issuers
+  http://www.navedali.com/finance/fixed-income/bonds/types-of-bonds-by-issuers
 published: true
 post_date: 2017-05-30 16:37:58
 ---
