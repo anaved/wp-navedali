@@ -24,5 +24,6 @@ However, in reality not all the months are of 30 days, hence <code>D2-D1</code> 
 <p align="center">$latex
 {Fraction =\frac{ 360(Y_2 - Y_1) + 30(M_2 - M_1 - 1) + max(0, 30 - D_1) + min(30, D_2)}{360}}&amp;s=2
 $</p>
-Sample python class for such calculation
-https://gist.github.com/anaved/0268ea0a49fe0e53bc482d0ae645f49d
+
+<h3>Actual/360  Method</h3>
+<h3>Actual/Actual Method</h3>
