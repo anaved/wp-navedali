@@ -14,6 +14,6 @@ Dirty Price is the price of the bond, plus part of coupon the seller expects in 
 {Dirty Price = Clean Price + Accrued Interest}&amp;s=2
 $</p>
 Clean Price here is the price of the bond, which is calculated by adding all future payments of the bond, it is also called the market price of the bond.
-Accrued interest interest depends upon how long its been past since the last payment, and considers <a href="http://www.navedali.com/finance/fixed-income/bonds/day-count-convention-bonds">day-count convention</a> to calculate that.
+Accrued interest depends upon how long its been passed since the last payment, and considers <a href="http://www.navedali.com/finance/fixed-income/bonds/day-count-convention-bonds">day-count convention</a> to calculate that.
 
-Since dirty price depends on how long the bond has been held since the last coupon, is it zero on the day of coupon payment and highest just the day before. If we plot a curve of the evolution of he dirty price over a period of time, it exhibits a shark tooth pattern. Lets take an example of
+Since dirty price depends on how long the bond has been held since the last coupon, is it zero on the day of coupon payment and highest just the day before. If we plot a curve of the evolution of he dirty price over a period of time, it exhibits a shark tooth pattern. Lets take an example of Gilt GB0008931148 for a sample period between 3 years after its issued in 1992 and assuming clean price to be par.
