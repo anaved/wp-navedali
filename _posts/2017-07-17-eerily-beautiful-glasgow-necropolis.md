@@ -9,12 +9,18 @@ permalink: >
 published: true
 post_date: 2017-07-17 20:34:54
 ---
-Though not a journey, after being in Glasgow for about a year. This was still one place where I always wanted to take Misbah along, but  never could, due to something or the other.
+After being in Glasgow for about a year, a visit to Central Cathedral and Necropolis was long overdue. This was still one place where I always wanted to take Misbah along, but  never could, due to something or the other.
 
 Finally this weekend after being under the weather all night, I lost my senses and dragged her along for a stroll to Glasgow Necropolis in-spite of rains.
 
-Luckily sun god showed mercy on us when we reached there. Sadly we missed the chance to visit the Central Cathedral due to reaching there after 5 PM., so that's for next time.
+Luckily sun god showed mercy on us when we reached there. However we missed the chance to visit the Central Cathedral since we reached after 5 P.M., so that is for the next time.
+
+Necropolis can be called one of the most beautiful places in Glasgow in its own right. Humbling, gloomy and majestic at the same time. Every tombstone tells a tale of an era long gone.
+
+It makes one realize how and where all desires and pursuits end, all that remains is a stone somewhere, telling a story.
 
 &nbsp;
+
+[gallery ids="598,600,599,597,596,595,594,593,592,591,590,589,587,586,585,584,583"]
 
 &nbsp;
