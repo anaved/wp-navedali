@@ -29,4 +29,4 @@ $</p>
 <h3>Actual/Actual Method</h3>
 &nbsp;
 
-<a href="https://github.com/anaved/bond-concepts/blob/master/src/calc/daycounter.py">Python implementation of these day count conventions</a> can be found at my <a href="https://github.com/anaved/bond-concepts">github Bond Concepts repository </a>
+<a href="https://github.com/anaved/bond-concepts/blob/master/src/calc/daycounter.py">Python implementation of day count conventions</a> can be found at my <a href="https://github.com/anaved/bond-concepts">github Bond Concepts repository .</a>
