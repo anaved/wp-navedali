@@ -20,6 +20,8 @@ Since dirty price depends on how long the bond has been held since the last coup
 
 [visualizer id="569"]
 
-Since dirty price is directly related to accrued interest, its graph will show a relative pattern.
+Since dirty price is directly related to accrued interest, its graph will show a relative pattern. Consider for clean price to be the par value.
 
-&nbsp;
+<span class="visualizer-chart-shortcode" title="Click to select"> [visualizer id="572"] </span>
+
+However in reality, clean price is not always at par value, and fluctuates depending upon prevalent interest rates and many other factors. Thus a more practical evolution of dirty price looks as below.
