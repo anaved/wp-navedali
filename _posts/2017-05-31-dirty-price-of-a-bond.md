@@ -25,3 +25,5 @@ Since dirty price is directly related to accrued interest, its graph will show a
 <span class="visualizer-chart-shortcode" title="Click to select"> [visualizer id="572"] </span>
 
 However in reality, clean price is not always at par value, and fluctuates depending upon prevalent interest rates and other <a href="http://www.navedali.com/finance/fixed-income/bonds/bond-investment-risks">risks factors</a>. Thus a more practical evolution of dirty price looks as below.
+
+[visualizer id="627"]
