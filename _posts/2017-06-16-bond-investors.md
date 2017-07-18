@@ -2,12 +2,12 @@
 ID: 346
 post_title: Bond Investors
 author: Naved
-post_date: 2017-06-16 18:20:15
 post_excerpt: ""
 layout: post
 permalink: >
   http://www.navedali.com/finance/fixed-income/bonds/bond-investors
 published: true
+post_date: 2017-06-16 18:20:15
 ---
 There are two categories of bond investors, big firms and individual investors.
 <h3>Institutional</h3>
