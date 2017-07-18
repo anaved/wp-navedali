@@ -14,4 +14,4 @@ Me, who am I? An observer mesmerized by the beauty around me. Its perfect, the s
 Like the lake is looking at me, annoyed. Why is it after all this I miss you. It commands cold winds in my direction, trying to bring me back from my thoughts and focus towards it.
 How can I explain, more beauty it spreads around me, more lonely I get. Every passing wave reminds me of your shy face, am almost hard to catch smile, your eyes trying to say something.
 
-[gallery ids="611,612,613,614,615,616,617,618,619,620"]
+[gallery size="medium" type="rectangular" ids="611,612,613,614,615,616,617,618,619,620"]
