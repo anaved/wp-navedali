@@ -26,6 +26,7 @@ However, in reality not all the months are of 30 days, hence <code>D2-D1</code> 
 $</p>
 
 <h3>Actual/360  Method</h3>
+This convention calculates actual differences between dates, but assumes year to be of 360 day. It is mostly used in used in money markets for short-term lending of currencies with maturity of one year or less it. This method is also called the French convention.
 <h3>Actual/Actual Method</h3>
 &nbsp;
 
