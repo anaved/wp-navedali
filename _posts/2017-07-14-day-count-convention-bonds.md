@@ -16,7 +16,7 @@ Day-count convention is used to calculate accrued interest between coupon paymen
 </ul>
 Most common day-count conventions are as follow.
 <h3> 30/360  Method</h3>
-This method assumes every year to be of 360 days with everything month having 30 days in them. A simple formula to calculate year fraction between two dates <code>D1/M1/Y1</code>and <code>D2/M2/Y2</code> could be.
+This method assumes every year to be of 360 days with everything month having 30 days in them. Since 360 is highly factor-able, calculation of payment frequency is easier and payment amount is constant over payment periods. It is often used in calculation of accrued interest for Corporate, Agency, Municipal Bonds and also MBS. A simple formula to calculate year fraction between two dates <code>D1/M1/Y1</code>and <code>D2/M2/Y2</code> could be.
 <p align="center">$latex
 {Fraction =\frac{ 360(Y_2 - Y_1) + 30(M_2 - M_1) + (D_2 - D_1)}{360}}&amp;s=2
 $</p>
