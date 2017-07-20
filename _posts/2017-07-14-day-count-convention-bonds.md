@@ -26,7 +26,12 @@ However, in reality not all the months are of 30 days, hence <code>D2-D1</code> 
 $</p>
 
 <h3>Actual/360  Method</h3>
-This convention calculates actual differences between dates, but assumes year to be of 360 day. It is mostly used in used in money markets for short-term lending of currencies with maturity of one year or less it. This method is also called the French convention.
+This convention calculates actual differences between dates, but assumes year to be of 360 day. It is mostly used in used in money markets for short-term lending of currencies with maturity of one year or less it. This method is also called the French convention.A simple formula to calculate year fraction between two dates <code>D1/M1/Y1</code>and <code>D2/M2/Y2</code> could be.
+<p align="center">$latex
+{Fraction =\frac{ (D_2/M_2/Y_2 - D_1/M_1/Y_1)Days}{360}}&amp;s=2
+$</p>
+<p align="center"></p>
+
 <h3>Actual/Actual Method</h3>
 &nbsp;
 
