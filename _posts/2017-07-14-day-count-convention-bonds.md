@@ -34,6 +34,6 @@ $</p>
 <h3>Actual/Actual Method</h3>
 This is the convention used for US Treasury bonds and notes, among other securities. This method calculates fractions of leap and non leap years separately and then combines them.
 <p align="center">$latex
-{Fraction =\frac{(Days not in leap year)}{365}+\frac{(Days in leap year)}{366}}&amp;s=2
+{Fraction =\frac{(Days not in leap year)}{365}+\frac{(Days in leap year)}{366}}
 $</p>
 <a href="https://github.com/anaved/bond-concepts/blob/master/src/calc/daycounter.py">Python implementation of day count conventions</a> can be found at my <a href="https://github.com/anaved/bond-concepts">GitHub Bond Concepts repository .</a>
