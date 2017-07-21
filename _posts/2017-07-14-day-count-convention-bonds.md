@@ -30,9 +30,10 @@ This convention calculates actual differences between dates, but assumes year to
 <p align="center">$latex
 {Fraction =\frac{ (D_2/M_2/Y_2 - D_1/M_1/Y_1)Days}{360}}&amp;s=2
 $</p>
-<p align="center"></p>
 
 <h3>Actual/Actual Method</h3>
-&nbsp;
-
-<a href="https://github.com/anaved/bond-concepts/blob/master/src/calc/daycounter.py">Python implementation of day count conventions</a> can be found at my <a href="https://github.com/anaved/bond-concepts">github Bond Concepts repository .</a>
+This is the convention used for US Treasury bonds and notes, among other securities. This method calculates fractions of leap and non leap years separately and then combines them.
+<p align="center">$latex
+{Fraction =\frac{(Days not in leap year)}{365} }+\frac{(Days in leap year)}{366} }&amp;s=2
+$</p>
+<a href="https://github.com/anaved/bond-concepts/blob/master/src/calc/daycounter.py">Python implementation of day count conventions</a> can be found at my <a href="https://github.com/anaved/bond-concepts">GitHub Bond Concepts repository .</a>
