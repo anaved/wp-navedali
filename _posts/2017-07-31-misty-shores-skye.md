@@ -14,4 +14,4 @@ Rocky cliffs with castles atop are sight to behold, telling the story of human p
 A day is too little to cover the whole island, but we did get a glimpse into culture, people are very warm and helpful, with a strong sense of community. Though chances are you'll find more sheep than people while driving around the isle.
 And on the second day it was the turn of Jacobite. Being an avid Harry Potter fan Misbah was particularly excited about this one. All adorned with tee and socks declaring her allegiance to the house of Gryffindor. The journey itself was exciting combined with the much talked about Glenfinnan viaduct turn. However I wish Mallaig tried to put up more fancy impression, considering how many Potterheads arrive there everyday.
 
-[gallery type="rectangular" size="medium" ids="685,684,683,682,681,680,671,679,678,677,672,674,675"]
+[gallery type="rectangular" size="medium" ids="685,683,682,681,680,671,679,678,677,672,674,675,690,691,692,693,694,695,696,697,698,699,700,701"]
