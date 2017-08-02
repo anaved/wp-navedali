@@ -9,7 +9,8 @@ permalink: >
 published: true
 post_date: 2017-07-23 21:54:59
 ---
-&nbsp;
+No two journeys are ever same. However few are bit more special, both in magnitude as well as expectations. Our first trip to Highlands certainly fell into this category. I spent weeks planning for this one, from accommodation, to list of places, to routes, to activities, even the vehicle.
+We started on Saturday with Inverness being our first stop. Although we missed our chance to spot dolphins, we did come across some serene places. Next stop was Loch Ness. After a customary lake cruise we moved towards Port Appin for our stay at Airds.
 
 &nbsp;
 
