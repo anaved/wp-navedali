@@ -19,4 +19,6 @@ Simple example of this kind of implementation is a generic power function where 
 
 https://gist.github.com/anaved/ea43f74cf8643bd2befb71658d1b6942
 
-&nbsp;
+A more practical example of partial could be a method to execute remote commands.
+
+https://gist.github.com/anaved/ea43f74cf8643bd2befb71658d1b6942#file-partial_server_connection-py
