@@ -40,7 +40,7 @@ https://gist.github.com/anaved/437ed10fa2c2a4f3252e715aa2f2b006#file-file_read_i
 <li> Create multiple patches inside a singular context
 https://gist.github.com/anaved/437ed10fa2c2a4f3252e715aa2f2b006#file-context_manager-py
 </li>
-<li> Exception handling
+<li> Exception flow
 https://gist.github.com/anaved/437ed10fa2c2a4f3252e715aa2f2b006#file-exception_in_context-py
 </li>
 
