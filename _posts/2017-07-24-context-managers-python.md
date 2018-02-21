@@ -19,14 +19,14 @@ https://gist.github.com/anaved/437ed10fa2c2a4f3252e715aa2f2b006#file-file_read_i
 <ol>
  	<li><code>__enter__</code>: called at the time of entering the context, allocates resources
 <ul>
- 	<li style="list-style-type: none;">
-<ul>
+
+
  	<li>Return value shall be the handle to the object we want to pass for further operation within the block.</li>
  	<li><span></span>Most common is to to return self here.</li>
  	<li>If an Exception is raise on the <code>__init__</code> or the <code>__enter__</code> method, then setup is considered invalid and <code>__exit__</code> is not called</li>
 </ul>
 </li>
-</ul>
+
 </li>
  	<li><code>__exit__</code>: called while exiting the context, cleans up resources.
 <ul>
