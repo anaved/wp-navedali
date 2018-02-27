@@ -34,7 +34,7 @@ https://gist.github.com/anaved/437ed10fa2c2a4f3252e715aa2f2b006#file-file_read_i
 		</ul>
 	</li>
 </ol>
-<h5>Examples of usage of context managers.</h5>
+<h5>Example usage of context managers.</h5>
 <ol>
 	<li> <h6>Exception Flow:</h6> Below is a sample if how resources (file descriptors, database connections etc ) for an operation can be cleaned without having to wrap it in a<code>try..except..finally</code> block.
 	</li>
