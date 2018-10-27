@@ -1,13 +1,13 @@
 ---
 ID: 178
 post_title: Yield Spread Of A Bond
-author: admin
-post_date: 2017-06-08 18:12:11
+author: Naved
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.navedali.com/yield-spread-of-a-bond/
+  http://www.navedali.com/finance/fixed-income/bonds/yield-spread-of-a-bond
 published: true
+post_date: 2017-06-08 18:12:11
 ---
 A yield spread is the difference between yields on differing debt instruments of varying maturities, credit ratings and risk, calculated by deducting the yield of one instrument from anotherA yield spread is the difference between yields on differing debt instruments of varying maturities, credit ratings and risk, calculated by deducting the yield of one instrument from another For corporate bonds amout of compensation expected is proportional to the risk. It depends upon following two factors
 

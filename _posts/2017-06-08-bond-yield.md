@@ -1,12 +1,13 @@
 ---
 ID: 174
 post_title: Bond Yield
-author: admin
-post_date: 2017-06-08 18:05:21
+author: Naved
 post_excerpt: ""
 layout: post
-permalink: http://www.navedali.com/bond-yield/
+permalink: >
+  http://www.navedali.com/finance/fixed-income/bonds/bond-yield
 published: true
+post_date: 2017-06-08 18:05:21
 ---
 * ) Calculation of all the coupons
 

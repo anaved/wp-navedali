@@ -2,14 +2,12 @@
 ID: 85
 post_title: Types of Bond Issuers
 author: Naved
-post_date: 2017-06-01 17:36:23
 post_excerpt: ""
 layout: post
 permalink: >
   http://www.navedali.com/finance/fixed-income/bonds/types-of-bond-issuers
 published: true
-dsq_thread_id:
-  - "5919761223"
+post_date: 2017-06-01 17:36:23
 ---
 <h3>Central Governments</h3>
 Sovereign Debt (Sov Debt) means any debt government has guaranteed. This not only include the debts/obligations/securities but also obligations by any of its department/ministries. Nearly all governments require a constant flow of borrowed funds in order to pursue their policies. Even in developed economies, successive budget deficits build up a large stock of outstanding debt that must be refinanced or serviced. Although some countries reduce borrowing during periods of budget surpluses, they never stop borrowing completely. In countries such as the US where there is a deep domestic bond market, government bonds represent a risk-less benchmark.

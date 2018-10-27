@@ -2,12 +2,12 @@
 ID: 81
 post_title: Clean Price Of A Bond
 author: Naved
-post_date: 2017-05-31 18:13:48
 post_excerpt: ""
 layout: post
 permalink: >
   http://www.navedali.com/finance/fixed-income/bonds/clean-price-of-a-bond
 published: true
+post_date: 2017-05-31 18:13:48
 ---
 Clean price:
 To avoid the impact of the next coupon payment on the price of a bond, this cash flow is excluded from the price of the bond and is called the accrued interest.

@@ -1,12 +1,12 @@
 ---
 ID: 158
 post_title: Disclaimer
-author: admin
-post_date: 2017-06-05 22:52:35
+author: Naved
 post_excerpt: ""
 layout: page
-permalink: http://www.navedali.com/disclaimer/
+permalink: http://www.navedali.com/disclaimer
 published: true
+post_date: 2017-06-05 22:52:35
 ---
 This is a blog. That fact means nothing.
 
