@@ -19,8 +19,4 @@ Necropolis can be called one of the most beautiful places in Glasgow in its own 
 
 It makes one realize how and where all desires and pursuits end, all that remains is a stone somewhere, telling a story.
 
-&nbsp;
-
 [gallery size="medium" type="rectangular" ids="598,600,597,596,595,594,593,592,591,590,589,586,585,584,607,605,604,602,601"]
-
-&nbsp;
