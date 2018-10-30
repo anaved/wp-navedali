@@ -1,11 +1,11 @@
 ---
 ID: 829
-post_title: Whats are Futures
+post_title: What are Futures
 author: Naved
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.navedali.com/finance/derivatives/whats-are-futures
+  http://www.navedali.com/finance/derivatives/what-are-futures
 published: true
 post_date: 2018-05-17 19:07:05
 ---
