@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-05-17 19:07:05
 ---
-A futures contract is essentially the same as a forward, except that the deal is made through an organized and regulated exchange rather than being negotiated directly between two parties.
+A futures contract is essentially the same as a forward, except that the deal is made through an organized and <a href="https://en.wikipedia.org/wiki/Futures_exchange">regulated exchange</a> rather than being negotiated directly between two parties.
 
 In a Physically Delivered Contract one side agrees to deliver a commodity or asset on a future date (or within a range of dates) at a ﬁxed price, and the other party agrees to take delivery.
 
