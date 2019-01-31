@@ -5,11 +5,11 @@ author: Naved
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.navedali.com/uncategorized/what-is-offshore-currency
+  http://www.navedali.com/uncategorized/what-is-offshore-currency
 published: true
 post_date: 2019-01-25 19:12:50
 ---
-Offshore currencies are employed by countries to enable forex trading of their currencies,  keeping control over the capital flow through its geographical boundaries at the same time.  In some cases there are foreign exchange or banking regulations which require onshore capital controls, hence the same currency is traded offshore with different regulatory regime.
+Offshore currencies are employed by countries to enable Forex trading of their currencies,  keeping control over the capital flow through its geographical boundaries at the same time.  In some cases there are foreign exchange or banking regulations which require onshore capital controls, hence the same currency is traded offshore with different regulatory regime.
 <h2>Eurodollar:</h2>
 Eurodollars are the offshore bank deposits denominated in US dollars. Being outside the United States, these deposits don't fall under the jurisdiction of Federal Reserve. As  liquidity on Eurodollar is not guaranteed by Feds, Eurodollars are considered riskier hence fetching higher interest rate.
 
